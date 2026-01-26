@@ -193,3 +193,17 @@ h2{margin:0 0 8px;font-size:30px;letter-spacing:-.4px}
   font-size: 12px;
   line-height: 1.55;
 }
+.shot{
+  border: 1px solid rgba(255,255,255,.08);
+  border-radius: 18px;
+  background: rgba(0,0,0,.18);
+  padding: 14px;
+  box-shadow: 0 20px 60px rgba(0,0,0,.35);
+}
+
+.shot img{
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+}
